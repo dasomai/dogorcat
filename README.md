@@ -1,5 +1,5 @@
 # dogorcat
-Image Classifier with PyTorch.
+## Image Classifier with PyTorch.
 
 
 Use Anaconda to setup environment
@@ -8,7 +8,7 @@ https://pytorch.org/
 
 Run this command: 
 
-conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
+`conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia`
 
 
 Setup other package along the way. 
@@ -33,7 +33,7 @@ model.load_state_dict(torch.load("models/model_ep299.pth"))
 Resize the image to 256 pixel
 
 
-RESULT:
+## RESULT:
 
 
 
@@ -44,7 +44,7 @@ RESULT:
 ![image](https://user-images.githubusercontent.com/61308335/208121153-fef5c66b-b08f-475d-8315-fe510f07b0d8.png)
 
 
-Explain the code:
+## Explain the code:
 
 https://blog.paperspace.com/object-localization-using-pytorch-1/
 
