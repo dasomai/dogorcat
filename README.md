@@ -21,13 +21,13 @@ At the train(model):
 
 you can change the:
 
-num_of_epochs = 300 
+`num_of_epochs = 300 `
 
 to 400 or more to become more accurate. 
 
 Then change the load model here: 
 
-model.load_state_dict(torch.load("models/model_ep299.pth"))
+`model.load_state_dict(torch.load("models/model_ep299.pth"))`
 
 
 Resize the image to 256 pixel
