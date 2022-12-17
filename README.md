@@ -44,4 +44,11 @@ RESULT:
 ![image](https://user-images.githubusercontent.com/61308335/208121153-fef5c66b-b08f-475d-8315-fe510f07b0d8.png)
 
 
+Explain the code:
+
+https://blog.paperspace.com/object-localization-using-pytorch-1/
+
+https://blog.paperspace.com/object-localization-pytorch-2/
+
+
 
